@@ -8,11 +8,11 @@
 
 ## Installation
 
-bash``
+``
 git clone https://github.com/flobbun/my-nvim-config
 ``
 
-bash``
+``
 nvim init.lua
 ``
 
